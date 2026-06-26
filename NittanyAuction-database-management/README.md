@@ -1,6 +1,8 @@
 Nittany Auction Phase 2
 
-This is the github repository for the implementation of the Nittany Auction Database Project.
+This is the github repository for the implementation of the Nittany Auction Database Group Project. 
+My contributions: ER Diagram, Relationships and Integrity Constraints, Data Population, and Auction Listing Management, Auction Editing, Password Hashing and Storage.
+Phase One Report document outlines plans for prototype implementation, requirements analysis, conceptual database design, technology survey, and logical database design/normalization.
 Current Functions: Database Population, User Login, User Profile Update, User Registration, Category Hierarchy, Product Search, Auction Listing Management, Auction Bidding, Rating
 
 
