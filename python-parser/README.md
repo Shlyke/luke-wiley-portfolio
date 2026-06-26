@@ -1,6 +1,6 @@
 # Python Parser Project
 
-This project implements a custom lexer, parser, and type checker for a simple programming language using Python. It builds an Abstract Syntax Tree (AST) from input, checks for semantic and type errors, and validates code structure based on a defined grammar.
+This project implements a custom lexer, parser, and type checker for a simple programming language using Python. It builds an Abstract Syntax Tree (AST) from input, checks for semantic and type errors, and validates code structure based on a defined grammar. My contributions: parser.py, ASTNodeDefs.py
 
 ---
 
