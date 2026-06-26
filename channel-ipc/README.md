@@ -27,10 +27,10 @@ Developed for CMPSC 473: Operating Systems at Penn State.
 
 ## File Overview
 
-- `channel.c` – Core implementation of all channel operations (your main work)
-- `channel.h` – Interface and type definitions
-- `buffer.c` / `buffer.h` – Provided helper code for circular buffer (not thread-safe)
-- `linked_list.c` / `linked_list.h` – Optional helper structures (not used in this solution)
+- `channel.c` – Core implementation of all channel operations (my work)
+- `channel.h` – Interface and type definitions (my work)
+- `buffer.c` / `buffer.h` – Provided helper code for circular buffer 
+- `linked_list.c` / `linked_list.h` – Optional helper structures 
 - `Makefile` – Builds test runners and sanitizer version
 - `test.c` – Instructor-provided test cases
 
