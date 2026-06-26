@@ -23,8 +23,8 @@ Developed for CMPSC 473: Operating Systems at Penn State.
 
 ## File Overview
 
-- `main.c` – Shell entry point and command loop
-- `cmd.c`, `cmd.h` – Execution logic for commands and operators
+- `main.c` – Shell entry point and command loop (my work)
+- `cmd.c`, `cmd.h` – Execution logic for commands and operators (my work)
 - `utils.c`, `utils.h` – Helper functions for environment, redirection, etc.
 - `parser.l`, `parser.y`, `parser.h` – Lex/Yacc-based input parser
 - `Makefile` – Builds the shell binary
