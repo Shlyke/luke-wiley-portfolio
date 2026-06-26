@@ -23,8 +23,8 @@ Developed for CMPSC 473: Operating Systems at Penn State.
 
 ## File Structure
 
-- `mm.c` – Core allocator implementation (your main contribution)
-- `mm.h` – Function declarations
+- `mm.c` – Core allocator implementation (my work)
+- `mm.h` – Function declarations (my work)
 - `memlib.c`, `memlib.h` – Simulated memory system used by test driver
 - `mdriver.c` – Test driver for correctness and performance (trace-based)
 - `config.h` – Configuration for test framework
