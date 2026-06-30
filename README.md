@@ -1,10 +1,47 @@
 # luke-wiley-portfolio
 
-This repository showcases several systems-level and course-driven programming projects developed as part of my Computer Science coursework at Penn State. Projects span topics such as memory allocation, shell implementation, inter-thread communication, and language parsing, primarily in C and Python with a focus on low-level control, concurrency, and structure.
+This repository showcases programming projects developed as part of my Computer Science Degree at Penn State. Projects span systems programming, artificial intelligence, machine learning, data mining, databases, and programming language implementation, primarily in C and Python with a focus on algorithms, software engineering, and low-level systems.
 
 ---
 
-## Projects
+## Database Management
+
+### [Nittany Auction Database](./nittany-auction)
+
+**Relational database application for online auctions**  
+Implements a database-driven auction system with SQL queries, data management, and transaction processing.
+
+- Language: Python / SQL
+- Highlights: Relational databases, SQL, data management
+- [See full README](./nittany-auction/README.md)
+
+---
+
+## Data Analysis Mining
+
+### [Credit Card Data Analysis](./credit-card-data-analysis)
+
+**Exploratory data analysis and feature selection**  
+Performs data cleaning, visualization, feature engineering, and classification analysis on a real-world credit card dataset.
+
+- Language: Python
+- Highlights: pandas, scikit-learn, feature selection, EDA
+- [See full README](./credit-card-data-analysis/README.md)
+
+---
+
+### [Exploratory Data Mining](./exploratory-data-mining)
+
+**Unsupervised learning and clustering algorithms**  
+Implements K-Means and Bisecting K-Means clustering with PCA-based dimensionality reduction and cluster evaluation.
+
+- Language: Python
+- Highlights: K-Means, Bisecting K-Means, PCA, clustering
+- [See full README](./exploratory-data-mining/README.md)
+
+---
+
+## Systems Programming
 
 ### [malloc-allocator](./malloc-allocator)
 
@@ -35,7 +72,7 @@ Supports built-in commands (`cd`, `exit`), pipes (`|`), redirection (`>`, `<`, e
 **Thread-safe inter-process communication system**  
 Implements a blocking and non-blocking message-passing channel using `pthread_mutex` and `pthread_cond`. Suitable for concurrent systems and producer-consumer models.
 
-- Language: C (POSIX threads)
+- Language: C (POSIX Threads)
 - Highlights: Blocking queues, condition variables, `channel_send`, `channel_receive`, `channel_close`, `channel_destroy`
 - Build/Test: `make`, `./channel test_case`, `./channel_sanitize`
 - [See full README](./channel-ipc/README.md)
@@ -47,26 +84,84 @@ Implements a blocking and non-blocking message-passing channel using `pthread_mu
 **Lexer, parser, and type checker for a toy language written in Python**  
 Implements an AST-based parser with scope-aware symbol tables, custom grammar definitions, and type mismatch detection. Includes a test suite for validation.
 
-- **Language**: Python  
-- **Highlights**: Tokenization, recursive descent parsing, type checking, AST nodes, semantic error reporting  
-- **Run Tests**: `python verify.py`  
+- Language: Python
+- Highlights: Tokenization, recursive descent parsing, semantic analysis, AST construction
+- Run Tests: `python verify.py`
 - [See full README](./python-parser/README.md)
 
 ---
 
+## Artificial Intelligence
+
+### [River Crossing Search Algorithms](./AI-projects/river-crossing-search-algorithms)
+
+**Classical AI search algorithms implemented from scratch**  
+Solves the Missionaries and Cannibals river crossing problem using DFS, BFS, Uniform Cost Search, and A* Search with custom admissible heuristics.
+
+- Language: Python
+- Highlights: DFS, BFS, UCS, A*, heuristic search, state-space search
+- Run: `python solution_q1.py`, `python solution_q2.py`, `python solution_q3.py`
+- [See full README](./AI-projects/river-crossing-search-algorithms/README.md)
+
+---
+
+### [Reinforcement Learning](./AI-projects/reinforcement-learning)
+
+**Model-free and model-based reinforcement learning algorithms**  
+Implements Q-Learning for Blackjack and Value Iteration with policy extraction for FrozenLake using Gymnasium.
+
+- Language: Python
+- Highlights: Q-Learning, Value Iteration, Policy Extraction, MDPs, Gymnasium
+- Run: `python solution_q1.py`, `python solution_q2.py`
+- [See full README](./AI-projects/reinforcement-learning/README.md)
+
+---
+
+### [Bayesian Networks](./AI-projects/bayesian-networks)
+
+**Probabilistic inference and Naive Bayes classification**  
+Implements Variable Elimination for Bayesian Networks and a Naive Bayes classifier for diabetes prediction.
+
+- Language: Python
+- Highlights: Bayesian Networks, Variable Elimination, Naive Bayes, probabilistic inference
+- Run: `python solution_q1.py`, `python solution_q2.py`
+- [See full README](./AI-projects/bayesian-networks/README.md)
+
+---
+
+
 ## Technologies Used
 
-- C (GCC), POSIX Threads
-- Flex/Bison for parser generation
-- Makefiles for build automation
-- Git + GitHub for version control
-- Valgrind & Sanitizers for memory and race detection
+### Languages
+
+- C
+- Python
+- SQL
+
+### Systems & Tools
+
+- POSIX Threads
+- Flex/Bison
+- Make
+- Git & GitHub
+- Valgrind
+- AddressSanitizer
+
+### Libraries
+
+- pandas
+- NumPy
+- scikit-learn
+- Gymnasium
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
 ## Contact
 
 **Luke Wiley**  
-Computer Science @ Penn State  
-Email: lmw6194@psu.edu  
-GitHub: [Shlyke](https://github.com/Shlyke)
+
+Email: luke.w.2469@gmail.com
+
+GitHub: https://github.com/Shlyke
