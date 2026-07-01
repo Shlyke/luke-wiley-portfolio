@@ -113,7 +113,7 @@ Implements Q-Learning for Blackjack and Value Iteration with policy extraction f
 - Language: Python
 - Highlights: Q-Learning, Value Iteration, Policy Extraction, MDPs, Gymnasium
 - Run: `python solution_q1.py`, `python solution_q2.py`
-- [See full README](./AI-projects/Q-learning Project)
+- [See full README](./AI-projects/Q-learning%20Project/README.md)
 
 ---
 
