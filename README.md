@@ -6,7 +6,7 @@ This repository showcases programming projects developed as part of my Computer 
 
 ## Database Management
 
-### [Nittany Auction Database](./nittanyauction-database-management)
+### [Nittany Auction Database](./NittanyAuction-database-management)
 
 **Relational database application for online auctions**  
 Implements a database-driven auction system with SQL queries, data management, and transaction processing.
