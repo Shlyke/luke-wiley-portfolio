@@ -13,7 +13,7 @@ Implements a database-driven auction system with SQL queries, data management, a
 
 - Language: Python / SQL
 - Highlights: Relational databases, SQL, data management
-- [See full README](./nittany-auction/README.md)
+- [See full README](./NittanyAuction-database-management/README.md)
 
 ---
 
@@ -37,7 +37,7 @@ Implements K-Means and Bisecting K-Means clustering with PCA-based dimensionalit
 
 - Language: Python
 - Highlights: K-Means, Bisecting K-Means, PCA, clustering
-- [See full README](./exploratory-data-mining/README.md)
+- [See full README](./credit-card-kmeans-clustering/README.md)
 
 ---
 
@@ -93,7 +93,7 @@ Implements an AST-based parser with scope-aware symbol tables, custom grammar de
 
 ## Artificial Intelligence
 
-### [River Crossing Search Algorithms](./AI-projects/riverCrossingProjcet)
+### [River Crossing Search Algorithms](./AI-projects/RiverCrossingProject)
 
 **Classical AI search algorithms implemented from scratch**  
 Solves the Missionaries and Cannibals river crossing problem using DFS, BFS, Uniform Cost Search, and A* Search with custom admissible heuristics.
@@ -101,11 +101,11 @@ Solves the Missionaries and Cannibals river crossing problem using DFS, BFS, Uni
 - Language: Python
 - Highlights: DFS, BFS, UCS, A*, heuristic search, state-space search
 - Run: `python solution_q1.py`, `python solution_q2.py`, `python solution_q3.py`
-- [See full README](./AI-projects/river-crossing-search-algorithms/README.md)
+- [See full README](./AI-projects/RiverCrossingProject/README.md)
 
 ---
 
-### [Reinforcement Learning](./AI-projects/Q-learning-project)
+### [Reinforcement Learning](./AI-projects/Q-learning%20Project)
 
 **Model-free and model-based reinforcement learning algorithms**  
 Implements Q-Learning for Blackjack and Value Iteration with policy extraction for FrozenLake using Gymnasium.
@@ -113,11 +113,11 @@ Implements Q-Learning for Blackjack and Value Iteration with policy extraction f
 - Language: Python
 - Highlights: Q-Learning, Value Iteration, Policy Extraction, MDPs, Gymnasium
 - Run: `python solution_q1.py`, `python solution_q2.py`
-- [See full README](./AI-projects/reinforcement-learning/README.md)
+- [See full README](./AI-projects/Q-learning Project)
 
 ---
 
-### [Bayesian Networks](./AI-projects/bayesianNets)
+### [Bayesian Networks](./AI-projects/BayesianNets)
 
 **Probabilistic inference and Naive Bayes classification**  
 Implements Variable Elimination for Bayesian Networks and a Naive Bayes classifier for diabetes prediction.
@@ -125,7 +125,7 @@ Implements Variable Elimination for Bayesian Networks and a Naive Bayes classifi
 - Language: Python
 - Highlights: Bayesian Networks, Variable Elimination, Naive Bayes, probabilistic inference
 - Run: `python solution_q1.py`, `python solution_q2.py`
-- [See full README](./AI-projects/bayesian-networks/README.md)
+- [See full README](./AI-projects/BayesianNets/README.md)
 
 ---
 
