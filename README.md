@@ -93,7 +93,7 @@ Implements an AST-based parser with scope-aware symbol tables, custom grammar de
 
 ## Artificial Intelligence
 
-### [River Crossing Search Algorithms](./AI-projects/river-crossing-search-algorithms)
+### [River Crossing Search Algorithms](./AI-projects/riverCrossingProjcet)
 
 **Classical AI search algorithms implemented from scratch**  
 Solves the Missionaries and Cannibals river crossing problem using DFS, BFS, Uniform Cost Search, and A* Search with custom admissible heuristics.
@@ -105,7 +105,7 @@ Solves the Missionaries and Cannibals river crossing problem using DFS, BFS, Uni
 
 ---
 
-### [Reinforcement Learning](./AI-projects/reinforcement-learning)
+### [Reinforcement Learning](./AI-projects/Q-learning-project)
 
 **Model-free and model-based reinforcement learning algorithms**  
 Implements Q-Learning for Blackjack and Value Iteration with policy extraction for FrozenLake using Gymnasium.
@@ -117,7 +117,7 @@ Implements Q-Learning for Blackjack and Value Iteration with policy extraction f
 
 ---
 
-### [Bayesian Networks](./AI-projects/bayesian-networks)
+### [Bayesian Networks](./AI-projects/bayesianNets)
 
 **Probabilistic inference and Naive Bayes classification**  
 Implements Variable Elimination for Bayesian Networks and a Naive Bayes classifier for diabetes prediction.
