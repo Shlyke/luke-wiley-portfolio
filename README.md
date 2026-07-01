@@ -30,7 +30,7 @@ Performs data cleaning, visualization, feature engineering, and classification a
 
 ---
 
-### [Credit Card Data Clustering With Machine Learning](./credit-card-data-clustering-kmeans)
+### [Credit Card Data Clustering With Machine Learning](./credit-card-data-kmeans-clustering)
 
 **Unsupervised learning and clustering algorithms**  
 Implements K-Means and Bisecting K-Means clustering with PCA-based dimensionality reduction and cluster evaluation.
