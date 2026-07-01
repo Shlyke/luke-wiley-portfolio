@@ -6,7 +6,7 @@ This repository showcases programming projects developed as part of my Computer 
 
 ## Database Management
 
-### [Nittany Auction Database](./nittany-auction)
+### [Nittany Auction Database](./nittany-auction-database-management)
 
 **Relational database application for online auctions**  
 Implements a database-driven auction system with SQL queries, data management, and transaction processing.
@@ -30,7 +30,7 @@ Performs data cleaning, visualization, feature engineering, and classification a
 
 ---
 
-### [Credit Card Data Clustering With Machine Learning](./credit-card-data-kmeans-clustering)
+### [Credit Card Data Clustering With Machine Learning](./credit-card-kmeans-clustering)
 
 **Unsupervised learning and clustering algorithms**  
 Implements K-Means and Bisecting K-Means clustering with PCA-based dimensionality reduction and cluster evaluation.
