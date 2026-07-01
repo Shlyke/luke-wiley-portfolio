@@ -19,7 +19,7 @@ Implements a database-driven auction system with SQL queries, data management, a
 
 ## Data Analysis Mining
 
-### [Credit Card Data Analysis](./credit-card-data-analysis)
+### [Credit Card Data Risk Prediction and Analysis](./credit-card-data-analysis)
 
 **Exploratory data analysis and feature selection**  
 Performs data cleaning, visualization, feature engineering, and classification analysis on a real-world credit card dataset.
@@ -30,7 +30,7 @@ Performs data cleaning, visualization, feature engineering, and classification a
 
 ---
 
-### [Exploratory Data Mining](./exploratory-data-mining)
+### [Credit Card Data Clustering With Machine Learning](./credit-card-data-clustering-kmeans)
 
 **Unsupervised learning and clustering algorithms**  
 Implements K-Means and Bisecting K-Means clustering with PCA-based dimensionality reduction and cluster evaluation.
