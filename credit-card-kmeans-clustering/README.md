@@ -1,4 +1,4 @@
-# Exploratory Data Mining
+# Credit Crad Data Clustering With Machine Learning
 
 A machine learning project exploring unsupervised clustering techniques on a credit card dataset using Python, NumPy, and scikit-learn. The project implements K-Means and Bisecting K-Means from scratch, compares them against Scikit-learn, and analyzes customer segments.
 
